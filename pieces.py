@@ -10,7 +10,7 @@ class whitePawn:
 		self.symbol = 'P'
 
 	def move(self):
-		if !self.hasMoved:
+		if not self.hasMoved:
 			pass
 
 
